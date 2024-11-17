@@ -5,7 +5,7 @@ Designed and implemented a recommendation algorithm that suggests videos based o
 
 ## 📊 Dataset
 
-The dataset can be fetched using the following APIs, which provide information on user interactions and video metadata:
+The dataset is fetched using the following APIs, which provide information on user interactions and video metadata:
 
 - **Base URL**: `https://api.socialverseapp.com`
 
@@ -38,7 +38,7 @@ The dataset can be fetched using the following APIs, which provide information o
 
 ### Authorization
 
-For each API request, include the following header:
+For each API request, we include the following header for authorization:
 - **Flic-Token**: `"flic_1e01009f9c1a54706f385bcc1993a08fd9647ba8f499572d280654d1c03c47bf"`
 
 ## 🛠️ Specific Tasks
