@@ -41,7 +41,7 @@ The dataset is fetched using the following APIs, which provide information on us
 For each API request, we include the following header for authorization:
 - **Flic-Token**: `"flic_1e01009f9c1a54706f385bcc1993a08fd9647ba8f499572d280654d1c03c47bf"`
 
-## 🛠️ Specific Tasks
+## 🛠️ Tasks
 
 ### 1. Data Preprocessing
    - Useage of the APIs provided to retrieve and preprocess video metadata and user interaction data.
